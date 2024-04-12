@@ -24,6 +24,9 @@ th {
     max-width: 800%;
     margin: 50px auto;
     padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 form {
